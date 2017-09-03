@@ -15,11 +15,11 @@ s.license      = "MIT"
 s.author             = { "TracyChouYY" => "zhouyuan_yyl@126.com" }
 
 
-s.source       = { :git => "https://github.com/TracyChouYY/ProText.git", :tag => "s.version" }
+s.source       = { :git => "https://github.com/TracyChouYY/ProText.git", :tag => "1.0.0" }
 
 
 
-s.source_files  = "Text/*.{swift}"
+s.source_files  = "Text/Text/*.{swift}"
 
 s.platform     = :ios, '8.0'
 s.requires_arc = true
